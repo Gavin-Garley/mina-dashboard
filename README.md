@@ -1,4 +1,4 @@
-# mina-dashboar
+# mina-dashboad
 
 Time block 4 hours
 1. stand up mina node
